@@ -6,7 +6,7 @@ Uso e aplicac ̧ ̃ao de an ́alise preditiva como objeto de pesquisavoltado a u
 
 Rilson Figueiredo Miranda1, Rodrigo Moreira Fagundes11Instituto de Matem ́atica – Universidade Federal da Bahia (UFBA)CEP.: 40.170-110 – Salvador – BA – Brasil
 
-rilsonfigueiredo@gmail.com,rmfagundesg@gmail.com
+rilsonfigueiredo@gmail.com, rmfagundesg@gmail.com
 
 Abstract
 
