@@ -1,4 +1,4 @@
-# setwd("C:/Users/Rilson/Dropbox/MATE04 - Topicos em BD 20161/Atividade4/Rilson e Rodrigo")
+# Script R para análise preditiva da base em questão
 
 require("plotly")
 require("ggplot2")
