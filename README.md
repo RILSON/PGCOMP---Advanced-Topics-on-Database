@@ -2,11 +2,10 @@
 
 Projeto da disciplina de Tópicos em Banco de Dados
 
-Uso e aplicac ̧ ̃ao de an ́alise preditiva como objeto de pesquisavoltado a uma base de dados espec ́ıfica, utilizando R
+Uso e aplicação de análise preditiva como objeto de pesquisa voltado a uma base de dados específica, utilizando R
 
-Rilson Figueiredo Miranda1, Rodrigo Moreira Fagundes11Instituto de Matem ́atica – Universidade Federal da Bahia (UFBA)CEP.: 40.170-110 – Salvador – BA – Brasil
-
-rilsonfigueiredo@gmail.com, rmfagundesg@gmail.com
+Rilson Figueiredo Miranda {rilsonfigueiredo@gmail.com}, Rodrigo Moreira Fagundes {rmfagundesg@gmail.com}
+Instituto de Matem ́atica – Universidade Federal da Bahia (UFBA)CEP.: 40.170-110 – Salvador – BA – Brasil
 
 Abstract
 
@@ -14,4 +13,4 @@ This paper aims to describe an exercise of the KDD process in a da-tabase provid
 
 Resumo
 
-Este artigo visa descrever um exerc ́ıcio do processo de KDD em umabase de dados provido por uma empresa propriet ́aria de um aplicativo de en-trega de alimentos em domic ́ılio,  com o intuito de levantar quais fatores s ̃aodeterminantes para a recusa de um pedido, o que torna poss ́ıvel a elaborac ̧ ̃aode m ́etricas que permitem a visualizac ̧ ̃ao de cada classe analisada dentro de umcen ́ario isolado.
+Este artigo visa descrever um exercício do processo de KDD em uma base de dados provido por uma empresa proprietária de um aplicativo de entrega de alimentos em domicílio,  com o intuito de levantar quais fatores são determinantes para a recusa de um pedido, o que torna possível a elaboração de métricas que permitem a visualização de cada classe analisada dentro de um cenário isolado.
