@@ -5,7 +5,8 @@ Projeto da disciplina de Tópicos em Banco de Dados
 Uso e aplicação de análise preditiva como objeto de pesquisa voltado a uma base de dados específica, utilizando R
 
 Rilson Figueiredo Miranda {rilsonfigueiredo@gmail.com}, Rodrigo Moreira Fagundes {rmfagundesg@gmail.com}
-Instituto de Matem ́atica – Universidade Federal da Bahia (UFBA)CEP.: 40.170-110 – Salvador – BA – Brasil
+
+Instituto de Matemática – Universidade Federal da Bahia (UFBA) CEP.: 40.170-110 – Salvador – BA – Brasil
 
 Abstract
 
