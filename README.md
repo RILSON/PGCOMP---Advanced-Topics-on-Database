@@ -1,6 +1,6 @@
 # PGCOMP---Advanced-Topics-on-Database
 
-Projeto da disciplina de Tópicos em Banco de Dados
+Projeto de Tópicos em Banco de Dados
 
 Uso e aplicação de análise preditiva como objeto de pesquisa voltado a uma base de dados específica, utilizando R
 
